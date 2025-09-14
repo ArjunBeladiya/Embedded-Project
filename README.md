@@ -10,6 +10,6 @@ This repository contains my work from the Embedded Computing Laboratory at Hochs
 - **Task 4:** Develop coordinated control between Python scripts, a C program, and the webserver to achieve line following and distance-based robot control.
 
 ## 🎞️ Demo GIF
-![Robot Moving Demo](media/demo.gif)
+![Robot Moving Demo](media/Output.gif)
 
 
